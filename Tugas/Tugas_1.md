@@ -11,4 +11,9 @@ Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yan
 2. Apa perbedaan hasil pengujian antara metode Boundary Analysis dan metode pengujian lainnya ketika diterapkan pada berbagai jenis situs web?
 3. Bagaimana penggunaan Boundary Analysis dalam pengujian situs web dapat meningkatkan kualitas situs web dan pengalaman pengguna?
 
+#### Teori yang Relevan
+1. Boundary Analysis Theory
+2. Teori Pengujian Perangkat Lunak
+3. Teori Pengalaman Pengguna (User Experience, UX)
+   
 ### Topik 2 : Pengujian Website Menggunakan Metode Equivalence partitioning
