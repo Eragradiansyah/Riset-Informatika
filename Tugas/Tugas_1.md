@@ -2,8 +2,6 @@
 
 ## Topik Penelitian
 
-======================================================================
-
 ### Topik 1 : Pengujian Black Box pada Website Menggunakan Metode Boundary Analysis
 #### Persoalan Praktis
 Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yang menunjangn segala kativitas dalam melakukan kegiatan bisnis maupun kegiatan pelkayanan kepada masyarakat. Namun seringkali webiste yang harusnya dapat membantu dapat memeprsulit manusia apabila dalam [pembuatannya tidak diikuti dengan pengujian ataupun pemeliharaan yang cukup baik. 
