@@ -4,7 +4,7 @@
 
 ### Topik 1 : Pengujian Black Box pada Website Menggunakan Metode Boundary Analysis
 #### Persoalan Praktis
-Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yang menunjangn segala kativitas dalam melakukan kegiatan bisnis maupun kegiatan pelkayanan kepada masyarakat. Namun seringkali webiste yang harusnya dapat membantu dapat memeprsulit manusia apabila dalam [pembuatannya tidak diikuti dengan pengujian ataupun pemeliharaan yang cukup baik. 
+Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yang menunjang segala aktivitas dalam melakukan kegiatan bisnis maupun kegiatan pelayanan kepada masyarakat. Namun seringkali webiste yang harusnya dapat membantu dapat mempersulit manusia apabila dalam pembuatannya tidak diikuti dengan pengujian ataupun pemeliharaan yang cukup baik. 
 
 #### Pertanyaan Penelitian
 1. Bagaimana Boundary Analysis dapat diterapkan secara efektif untuk mengidentifikasi, mengukur, dan mengatasi masalah batas pada situs web?
@@ -21,7 +21,7 @@ Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yan
 
 ### Topik 2 : Pengujian  Black Box pada Website Menggunakan Metode Equivalence partitioning
 #### Persoalan Praktis
-Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yang menunjangn segala kativitas dalam melakukan kegiatan bisnis maupun kegiatan pelkayanan kepada masyarakat. Namun seringkali webiste yang harusnya dapat membantu dapat memeprsulit manusia apabila dalam [pembuatannya tidak diikuti dengan pengujian ataupun pemeliharaan yang cukup baik. 
+Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yang menunjang segala aktivitas dalam melakukan kegiatan bisnis maupun kegiatan pelayanan kepada masyarakat. Namun seringkali webiste yang harusnya dapat membantu dapat mempersulit manusia apabila dalam pembuatannya tidak diikuti dengan pengujian ataupun pemeliharaan yang cukup baik.
 
 #### Pertanyaan Penelitian
 1. Bagaimana metode Equivalence Partitioning dapat diterapkan secara efektif untuk mengidentifikasi, mengelola, dan menguji partisi yang setara pada situs web?
