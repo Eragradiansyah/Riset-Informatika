@@ -17,9 +17,8 @@ Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yan
 3. Teori Pengalaman Pengguna (User Experience, UX)
 4. BlackBox Testing Theory
 
+=========================================================================================================================================
 
-
-   
 ### Topik 2 : Pengujian  Black Box pada Website Menggunakan Metode Equivalence partitioning
 #### Persoalan Praktis
 Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yang menunjangn segala kativitas dalam melakukan kegiatan bisnis maupun kegiatan pelkayanan kepada masyarakat. Namun seringkali webiste yang harusnya dapat membantu dapat memeprsulit manusia apabila dalam [pembuatannya tidak diikuti dengan pengujian ataupun pemeliharaan yang cukup baik. 
