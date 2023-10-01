@@ -16,4 +16,10 @@ Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yan
 2. Teori Pengujian Perangkat Lunak
 3. Teori Pengalaman Pengguna (User Experience, UX)
    
-### Topik 2 : Pengujian Website Menggunakan Metode Equivalence partitioning
+### Topik 2 : Pengujian  Black Box pada Website Menggunakan Metode Equivalence partitioning
+#### Persoalan Praktis
+Berbagai Instansi maupun perusahaan saat ini memiliki berbagai macam website yang menunjangn segala kativitas dalam melakukan kegiatan bisnis maupun kegiatan pelkayanan kepada masyarakat. Namun seringkali webiste yang harusnya dapat membantu dapat memeprsulit manusia apabila dalam [pembuatannya tidak diikuti dengan pengujian ataupun pemeliharaan yang cukup baik. 
+
+#### Persoalan Praktis
+#### Teori yang Relevan
+
