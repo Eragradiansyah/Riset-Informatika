@@ -6,5 +6,7 @@ Analisis dari data kualitatif yaitu data yg berbentuk kalimat/ungkapan dan gamba
 ### Metode dan Metodologi
 
 #### Metode
+Jurnal : Black Box Testing on ukmbantul.com Page with Boundary Value Analysis and Equivalence Partitioning Methods
 
 #### Metodologi
+Jurnal : Comparing method equivalence class partitioning and boundary value analysis with study case add medicine module
