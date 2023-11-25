@@ -7,6 +7,7 @@ Analisis dari data kualitatif yaitu data yg berbentuk kalimat/ungkapan dan gamba
 
 #### Metode
 Jurnal 1 :     Black Box Testing on ukmbantul.com Page with Boundary Value Analysis and Equivalence Partitioning Methods
+
 Jurnal 2 :     Pengujian Black Box Testing Pada Aplikasi Action & Strategy Berbasis Android Dengan Teknologi Phonegap 
 
 #### Metodologi
