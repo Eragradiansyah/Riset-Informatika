@@ -1,4 +1,4 @@
-ALAT ANALISIS DALAM PENELITIAN
+# ALAT ANALISIS DALAM PENELITIAN
 
-KUALITATIF
+### KUALITATIF
 Analisis dari data kualitatif yaitu data yg berbentuk kalimat/ungkapan dan gambar
