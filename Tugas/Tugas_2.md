@@ -12,4 +12,5 @@ Jurnal 2 :     Pengujian Black Box Testing Pada Aplikasi Action & Strategy Berba
 
 #### Metodologi
 Jurnal 1 : Comparing method equivalence class partitioning and boundary value analysis with study case add medicine module
-Jurnal 2 : 
+
+Jurnal 2 : Pengujian Black Box pada Aplikasi Berita Online dengan Menggunakan Metode Boundary Value Analysis
