@@ -7,4 +7,9 @@
 ## Riset Informatika
 
 ### Judul Penelitian
-Pengujian Balck Box Website 
+Pengujian Black Box Website pada Website Dinas Kota Madiun
+
+### Metode yang digunakan
+- Boundary Value Analysis
+- Equivalence Partitioning
+  
