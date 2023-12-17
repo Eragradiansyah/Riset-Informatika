@@ -6,14 +6,14 @@
 
 ## Riset Informatika
 
-### Judul Penelitian
+### 1. Judul Penelitian
 Pengujian Black Box Website pada Website Dinas Kota Madiun
 
-### Metode yang digunakan
+### 2. Metode yang digunakan
 - Boundary Value Analysis
 - Equivalence Partitioning
 
-### Refrensi
+### 3. Refrensi
 Metode
 - Jurnal 1 : Black Box Testing on ukmbantul.com Page with Boundary Value Analysis and Equivalence Partitioning Methods
 - Jurnal 2 : Pengujian Black Box Testing Pada Aplikasi Action & Strategy Berbasis Android Dengan Teknologi Phonegap
